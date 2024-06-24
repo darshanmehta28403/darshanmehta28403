@@ -19,7 +19,3 @@ My interests extend beyond web development to encompass a love for learning and 
 ## Get in Touch
 
 Feel free to connect with me to explore opportunities for collaboration, learning, and innovation. Let's create something extraordinary together!
-
----
-
-[LinkedIn](www.linkedin.com/in/darshan-mehta-195b69218)
