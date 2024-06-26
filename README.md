@@ -16,7 +16,9 @@ During my one-year internship at Shreeji-iTech, I worked as a Web Designer and D
 
 My interests extend beyond web development to encompass a love for learning and problem-solving across various technologies. I am passionate about creating solutions that offer both ease of use and substantial value. In the future, I aspire to contribute to technological advancements that serve humanity while enhancing college-level IT education.
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+## Interests and Aspirations
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,express,mongodb,html,css,java,php,mysql,dotnet,postman,vscode&perline=12)](https://skillicons.dev)
 
 ## Get in Touch
 
