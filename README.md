@@ -10,7 +10,7 @@ Hello! I'm Darshan Mehta, a dedicated web professional with a strong foundation 
 
 ## Professional Journey
 
-During my one-year internship at Shreeji-iTech, I worked as a Web Designer and Developer. Notably, I contributed to the renowned Keshubhai Mehta Eye Hospital project in my city. Beyond design, I developed projects like Wash Without Water (an e-commerce platform) and a Hostel Management Project, ensuring high usability and adaptability across devices.
+During my one-year internship at Shreeji-iTech, I worked as a Web Designer and Developer. Notably, I contributed to a renowned Eye Hospital project in my city. Beyond design, I developed projects like Wash Without Water (an e-commerce platform) and a Hostel Management Project, ensuring high usability and adaptability across devices.
 
 ## Interests and Aspirations
 
